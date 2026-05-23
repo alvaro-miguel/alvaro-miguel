@@ -95,6 +95,4 @@
 
 ### 📊 Most commonly used tools
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvaro-miguel&layout=compact&theme=dark&langs_count=6" alt="most commonly used tools" height="180" />
-</p>
+![Most commonly used tools](https://github-readme-stats.vercel.app/api/top-langs/?username=alvaro-miguel&layout=compact&theme=dark&langs_count=6)

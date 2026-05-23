@@ -1,4 +1,4 @@
-# <center>Hi, I'm Álvaro Miguel<center/>
+# <center>Hi, I'm Álvaro Miguel</center>
 
 ## 👨🏽‍💻Systems analysis and development student at IFPI - Teresina Central <br/><br/>🚀Full-Stack developemnt enthusiastic, with focus on building efficient and robust solutions.
 

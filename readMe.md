@@ -13,27 +13,27 @@
 />
 <img 
     align="left"
-    alt="HTML"
+    alt="Javascript"
     width="40px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 <img 
     align="left"
-    alt="HTML"
+    alt="Css"
     width="40px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 <img 
     align="left"
-    alt="HTML"
+    alt="Typescript"
     width="40px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
 <img
-    alt="HTML"
+    alt="React-native"
     width="40px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original.svg" 
@@ -42,20 +42,27 @@
 ### Back-end & DB
 <img 
     align="left"
-    alt="HTML"
+    alt="Python"
     width="40px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <img 
-    alt="HTML"
     align="left"
+    alt="FastAPI"
+    width="40px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg"           
+/>
+<img 
+    align="left"
+    alt="Django"
     width="40px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"
 />
 <img
-    alt="HTML"
+    alt="Postgresql"
     width="40px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
@@ -64,13 +71,13 @@
 ### Other tools
 <img 
     align="left"
-    alt="HTML"
+    alt="Git"
     width="40px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
 />
 <img
-    alt="HTML"
+    alt="Docker"
     width="40px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
@@ -79,13 +86,13 @@
 ### 📒Currently studying
 <img 
     align="left"
-    alt="HTML"
+    alt="Java"
     width="40px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
 <img 
-    alt="HTML"
+    alt="Springboot"
     width="40px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 

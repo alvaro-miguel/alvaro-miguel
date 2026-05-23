@@ -93,6 +93,19 @@
 
 ---
 
-### 📊 Most commonly used tools
+### 📊 GitHub Stats & Most Used Languages
 
-![Most commonly used tools](https://github-readme-stats.vercel.app/api/top-langs/?username=alvaro-miguel&layout=compact&theme=dark&langs_count=6)
+<p align="center">
+  <img 
+  align="left" 
+  alt="GitHub Stats" 
+  height="200" 
+  style="padding-right: 10px;" 
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=alvaro-miguel&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&locale=pt-br" />
+  
+  <img 
+  align="left" 
+  alt="Most used languages" 
+  height="200" 
+  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alvaro-miguel&theme=highcontrast&layout=compact&custom_title=Tecnologias&langs_count=6" />
+</p>

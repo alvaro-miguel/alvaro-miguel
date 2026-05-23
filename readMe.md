@@ -1,0 +1,100 @@
+# <center>Hi, I'm Álvaro Miguel<center/>
+
+## 👨🏽‍💻Systems analysis and development student at IFPI - Teresina Central <br/><br/>🚀Full-Stack developemnt enthusiastic, with focus on building efficient and robust solutions.
+
+## ⚙️Familiar languages ​​and tools
+### Front-end
+<img 
+    align="left"
+    alt="HTML"
+    width="40px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left"
+    alt="HTML"
+    width="40px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left"
+    alt="HTML"
+    width="40px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left"
+    alt="HTML"
+    width="40px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+<img
+    alt="HTML"
+    width="40px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original.svg" 
+/>
+<br/>
+### Back-end & DB
+<img 
+    align="left"
+    alt="HTML"
+    width="40px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    alt="HTML"
+    align="left"
+    width="40px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"
+/>
+<img
+    alt="HTML"
+    width="40px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
+/>
+<br/>
+### Other tools
+<img 
+    align="left"
+    alt="HTML"
+    width="40px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+/>
+<img
+    alt="HTML"
+    width="40px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
+/>
+<br>
+### 📒Currently studying
+<img 
+    align="left"
+    alt="HTML"
+    width="40px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+<img 
+    alt="HTML"
+    width="40px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
+/>
+
+---
+
+### 📊 Most commonly used tools
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvaro-miguel&layout=compact&theme=dark&langs_count=6" alt="most commonly used tools" height="180" />
+</p>

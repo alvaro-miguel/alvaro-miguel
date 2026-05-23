@@ -95,17 +95,13 @@
 
 ### 📊 GitHub Stats & Most Used Languages
 
-<p align="center">
-  <img 
-  align="left" 
-  alt="GitHub Stats" 
-  height="200" 
-  style="padding-right: 10px;" 
-  src="https://github-readme-stats-sigma-five.vercel.app/api?username=alvaro-miguel&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&locale=pt-br" />
-  
-  <img 
-  align="left" 
-  alt="Most used languages" 
-  height="200" 
-  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alvaro-miguel&theme=highcontrast&layout=compact&custom_title=Tecnologias&langs_count=6" />
-</p>
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td style="padding-right: 10px;">
+      <img alt="GitHub Stats" height="200" src="https://github-readme-stats-sigma-five.vercel.app/api?username=alvaro-miguel&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&locale=pt-br" />
+    </td>
+    <td>
+      <img alt="Most used languages" height="200" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alvaro-miguel&theme=highcontrast&layout=compact&custom_title=Tecnologias&langs_count=6" />
+    </td>
+  </tr>
+</table>
